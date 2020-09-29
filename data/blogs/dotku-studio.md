@@ -1,0 +1,8 @@
+I started this studio after my high school. It was used for skill improving and practicing the principles I have learned. At the same time, as a service provider, I helped my clients to build websites with affordable price, and provided the advice, helped them understand the internet marketing and trend, so they can choose the solution best fit their needs.
+
+During the 10 years of operating, I have been working with more than hundred websites and clients in the studio. I got a lot of data of the way how technology changes the people and react from the users in a product. Not only that, but also I improved my development skill, marketing skill, management skill, sale skill, customer support skills, and more. It was a very valuable experience.
+
+Helped small business owners to boot up the revenue up to 100% by websites and SEO technologies.
+Helped start-up groups to build their prototype functional websites with an affordable solutions, save their budget over 90%.
+Taught the client how to use many marketing tools and services, and help them cutting the tech expending in their starting point. The general tech tools include but not limited to, the hosting services, such as Godaddy, 1and1, Amazon Web Services (AWS), Aliyun, and etc., social media platform, such as Facebook, Twitter, Sina Weibo, Wechat and etc., CMS, such as WordPress, Drupal and etc., frontend and backend frameworks, such as jQuery, AngularJS, bootstrap, CakePHP, ThinkPHP, CodeIgniter, Laravel, and etc., SEO tools such as Google Analytics, sitemap, Baidu SEO.
+Build a bay area local community website to help new immigrants and international students get involved with the new environment; it increased to 10,000 users in half year.
